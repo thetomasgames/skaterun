@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Manager
+  - WorldLimit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MovementBounds
+  - Hero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2937177107
+    locked: 0
+  - name: Clouds
+    uniqueID: 4230114285
+    locked: 0
+  - name: Mar
+    uniqueID: 3512054895
+    locked: 0
+  - name: Road
+    uniqueID: 3152263073
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hero
+    uniqueID: 3797774487
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2162410359
+    locked: 0
